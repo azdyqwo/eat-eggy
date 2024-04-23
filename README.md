@@ -16,6 +16,8 @@ _ 网页小游戏 _
 
 [English](README_EN.md)
 |
+[原作者开源仓库](https://github.com/arcxingye/EatKano)
+|
 [冈易官方b站](https://space.bilibili.com/316381099)
 |
 [原游戏官网](https://party.163.com)
