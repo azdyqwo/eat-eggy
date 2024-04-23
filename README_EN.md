@@ -16,6 +16,8 @@ A web game: EatEggy
 
 [Game Offical Twitter](https://twitter.com/eggypartyglobal)
 |
+[Original author's repo](https://github.com/arcxingye/EatKano)
+|
 [Game Offical Website](https://www.eggyparty.com/)
 |
 [Github Pages](https://ee.azqaq.top)
