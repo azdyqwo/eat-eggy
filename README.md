@@ -20,8 +20,6 @@ _ 网页小游戏 _
 |
 [原游戏官网](https://party.163.com)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
 [Github Pages](https://ee.azqaq.top)
 
 ## 可选功能
