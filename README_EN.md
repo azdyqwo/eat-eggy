@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://www.eggyparty.com/pc/gw/20230630105841/img/logo_0604c8de.png" width="150" height="56" alt="EatEggy"></a>
+  <a href="https://ee.azqaq.top"><img src="https://www.eggyparty.com/pc/gw/20230630105841/img/logo_0604c8de.png" width="150" height="56" alt="EatEggy"></a>
 </p>
 
 <div align="center">
