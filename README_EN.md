@@ -1,24 +1,24 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="https://www.eggyparty.com/pc/gw/20230630105841/img/logo_0604c8de.png" width="150" height="56" alt="EatEggy"></a>
 </p>
 
 <div align="center">
 
-# EatKano
+# EatEggy
 
-_🦌 Web Game 🥛_
+_ Web Game _
 
 </div>
 
 
 ## Introduction
-A web game: EatKano
+A web game: EatEggy
 
-[Kano's Twitter](https://twitter.com/kano_2525)
+[Game Offical Twitter](https://twitter.com/eggypartyglobal)
 |
-[Online Version](https://xingye.me/game/eatkano/index.php)
+[Game Offical Website](https://www.eggyparty.com/)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages](https://ee.azqaq.top)
 
 ## Features
 
@@ -32,7 +32,7 @@ You can delete all the sql/php files if you don't need them.
 
 ## Usage
 
-Note: if you just want to play it, go to [online version](https://xingye.me/game/eatkano/index.php). Here is how to create your own version.
+Note: if you just want to play it, go to [online version](https://ee.azqaq.top). Here is how to create your own version.
 
 ### Github Pages
 
