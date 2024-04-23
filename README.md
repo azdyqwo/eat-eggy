@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ee.azqaq.top"><img src="https://party.16.com/favicon.ico" width="100" height="100" alt="EatEggy"></a>
+  <a href="https://ee.azqaq.top"><img src="https://cdn.jsdelivr.net/gh/azdyqwo/eat-eggy/static/eplogo-cn.webp" width="100" height="100" alt="EatEggy"></a>
 </p>
 <div align="center">
 
