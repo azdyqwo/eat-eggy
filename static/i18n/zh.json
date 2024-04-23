@@ -20,7 +20,7 @@
   "default-20s": "默认为20秒",
   "game-title": "新概念音游",
   "game-intro1": "从最底下的开始",
-  "game-intro2": "看你能得多少分",
+  "game-intro2": "看您能得多少分",
   "record-rank": "用于纪录排行(特殊字符会被过滤)",
   "no-ad-bad-lang": "禁广告/脏话(本项可不填)",
   "time-up": "时间到",
@@ -55,5 +55,5 @@
   "no-message": "这个人很懒什么也没留下",
   "self-record": "{name} 的最高记录. 已上传 {attempts} 次<br/>SCORE:{score} {time}",
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
-  "no-name-tip": "提示：你玩之前还没有填名字"
+  "no-name-tip": "提示：您玩之前还没有填名字"
 }
